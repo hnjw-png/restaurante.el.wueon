@@ -6,14 +6,17 @@ body {
 }
 
 #head {
-    background-color: azure;
-    color: blue;
+    background-color: black;
+    color: whitesmoke;
     display: inline;
     float: top;
+    font-size: 75px;
 }
 
 #navigation {
     font-size: 110%;
+    color: black;
+
     
 }
 
@@ -27,8 +30,9 @@ body {
 }
 
 #image-one {
-    background-image: url(../images/pexels-photo-812860.jpeg);
+    background-image: url(../images/bread.jpeg) ;
     width: 100%;
     height: 250px;
     display: inline-block;
+    position: relative;
 }
