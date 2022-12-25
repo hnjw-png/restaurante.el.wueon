@@ -25,3 +25,10 @@ body {
     position: relative;
 
 }
+
+#image-one {
+    background-image: url(../images/pexels-photo-812860.jpeg);
+    width: 100%;
+    height: 250px;
+    display: inline-block;
+}
