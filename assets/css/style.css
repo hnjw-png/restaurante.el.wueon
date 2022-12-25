@@ -36,3 +36,10 @@ body {
     display: inline-block;
     position: relative;
 }
+
+#open-title {
+    font-family: 'Roboto' sans-serif;
+    color: black;
+    text-align: center;
+    
+}
