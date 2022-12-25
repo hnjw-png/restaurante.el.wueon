@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Source+Serif+Pro:ital@1&display=swap');
+
+body {
+    font-family: 'Roboto' sans-serif;
+    
+}
+
+#head {
+    background-color: azure;
+    color: blue;
+    display: inline;
+    float: top;
+}
+
+#navigation {
+    font-size: 110%;
+    
+}
+
+#navigation li {
+    list-style-type: none;
+    float: right;
+    margin: 10px;
+    display: inline;
+    position: relative;
+
+}
