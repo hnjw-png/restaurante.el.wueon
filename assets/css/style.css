@@ -91,9 +91,17 @@ input[type=submit] {
 }
 
 #para-table {
-    font-family: "barlow-condensed";
+    font-family: "barlow-condensed" sans-serif;
     font-style: italic;
     font-weight: bold;
     font-size: large;
 }
 
+/* our story */
+
+ {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Barlow Condensed' sans-serif;
+}
