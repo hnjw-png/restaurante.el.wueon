@@ -1,7 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Source+Serif+Pro:ital@1&display=swap');
+@import url('@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital@1&display=swap');');
 
 body {
-    font-family: 'Roboto' sans-serif;
+    font-family: "Barlow-Condensed" sans-serif;
+    background-image: url(../images/bread.jpeg);
+    background-repeat: no repeat;
+    background-size: cover;
     
 }
 
@@ -20,8 +23,6 @@ body {
     color: black;
     margin: 0;
     padding: 0;
-    
-
     
 }
 
@@ -42,13 +43,15 @@ body {
 /*homepage css*/
 
 #image-one {
-    background-image: url(../images/bread.jpeg) ;
+    background-color:antiquewhite ;
     width: 100%;
     height: 250px;
     display: inline-block;
     position: relative;
+
 }
 
+/*opening times postiiong */
 #open-title {
     font-family: 'Roboto' sans-serif;
     color: black;
@@ -60,20 +63,37 @@ body {
 
 input {
     width: 100%;
-    border: 100px black;
+    border-color: black;
+    border-bottom: 200px;
     box-sizing: border-box;
     padding: 6px 10px;
-    margin: 4px 0px;
-    background-color: lightblue;
-    font-style: bold;
+    margin: 4px;
+    background-color: whitesmoke;
+    
+    font-weight: bold;
     
 
 }
 
-.submit {
+input[type=submit] {
    box-sizing: border-box;
    border: 40px black;
-   background-color: blue;
-    
+   background-color: lightgoldenrodyellow;
+   font-weight: bold;
 
 }
+
+#table-title {
+    font-family: "barlow-condensed";
+    font-style: italic;
+    text-decoration: underline; 
+    font-size: larger;
+}
+
+#para-table {
+    font-family: "barlow-condensed";
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+
