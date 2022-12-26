@@ -43,7 +43,8 @@ body {
 /*homepage css*/
 
 #image-one {
-    background-color:antiquewhite ;
+    background-image: url(../images/rest.jpeg);
+    background-size: 50%;
     width: 100%;
     height: 250px;
     display: inline-block;
@@ -88,6 +89,10 @@ input[type=submit] {
     font-style: italic;
     text-decoration: underline; 
     font-size: larger;
+    background-color: white;
+    length: 200px;
+    width: 200px;
+    float: center;
 }
 
 #para-table {
@@ -97,11 +102,29 @@ input[type=submit] {
     font-size: large;
 }
 
+#pretty-box {
+    background-color: white;
+    length: 300px;
+}
+
 /* our story */
 
- {
+ #our-story {
+    display: inline-block;
+    background-color: white;
+    width: 75%;
+    length: 75%;
+    float: center;
     text-align: center;
-    font-style: italic;
-    font-weight: bold;
-    font-family: 'Barlow Condensed' sans-serif;
+
+}
+
+#title-story {
+
+    float: center;
+    text-decoration: underline;
+    background-color: white;
+    width: 200px;
+    length: 250px;
+
 }
