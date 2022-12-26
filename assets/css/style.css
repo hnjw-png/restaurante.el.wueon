@@ -5,6 +5,8 @@ body {
     
 }
 
+/*header css*/
+
 #head {
     background-color: black;
     color: whitesmoke;
@@ -37,6 +39,8 @@ body {
     float:inline-start;
 }
 
+/*homepage css*/
+
 #image-one {
     background-image: url(../images/bread.jpeg) ;
     width: 100%;
@@ -50,4 +54,26 @@ body {
     color: black;
     text-align: center;
     
+}
+
+/*book table form styling*/
+
+input {
+    width: 100%;
+    border: 100px black;
+    box-sizing: border-box;
+    padding: 6px 10px;
+    margin: 4px 0px;
+    background-color: lightblue;
+    font-style: bold;
+    
+
+}
+
+.submit {
+   box-sizing: border-box;
+   border: 40px black;
+   background-color: blue;
+    
+
 }
