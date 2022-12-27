@@ -20,7 +20,6 @@ body {
 }
 
 #navigation ul {
-    font-size: 110%;
     color: black;
     margin: 0;
     padding: 0;
@@ -34,6 +33,7 @@ body {
     padding: 0;
     display: inline;
     position: relative;
+    font-size: large;
 
 }
 
@@ -52,6 +52,7 @@ body {
     font-size: medium;
     color: grey;
     background-color: beige;
+  
 
 }
 
@@ -61,13 +62,33 @@ body {
     color: black;
     text-align: center;
     background-color: beige;
-    length: 200px;
+    length: 150px;
     width: 300px;
     float: right;
-    margin: 20px 200px 0;
+    margin: 20px 500px 0;
 
 }
 
+.table {
+
+    text-decoration: underline;
+    table-layout: auto;
+}
+
+#location {
+    font-family: 'Barlow condensed' sans-serif;
+    color: black;
+    text-align: center;
+    background-color: beige;
+    length: 150px;
+    width: 300px;
+    float: right;
+    margin: 20px 500px 0px ;
+   
+
+}
+
+/*heading classes*/
 .headings {
     text-decoration: underline;
     font-weight: bold; 
@@ -79,6 +100,8 @@ body {
     font-weight: bold;
     font-style: italic;'
 }
+
+
 
 /*book table form styling*/
 
@@ -125,6 +148,7 @@ input[type=submit] {
     font-size: large;
     color: black;
     background-color: beige;
+    border: 1px;
 
 }
 
@@ -171,5 +195,13 @@ input[type=submit] {
     position:  absolute;
     float:inline-start;
     margin: 20px;
+    border-radius: 50% 50%;
 
+}
+
+#footer 
+{
+    position:absolute;
+    background-color: beige;
+    color: black;
 }
