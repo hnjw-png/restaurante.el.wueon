@@ -56,14 +56,15 @@ body {
 }
 
 /*opening times postiiong */
-#open-title {
-    font-family: 'Roboto' sans-serif;
+#open-times {
+    font-family: 'Barlow condensed' sans-serif;
     color: black;
     text-align: center;
     background-color: white;
     length: 200px;
     width: 200px;
-    float: center 50px;
+    float: right;
+    left: 10px;
 
 }
 
