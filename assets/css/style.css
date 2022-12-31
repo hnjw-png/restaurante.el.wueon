@@ -14,6 +14,7 @@ body {
     font-size: larger;
     font-family: "Andika";
     color: white;
+    background-color: green;
     display: inline;
     float: top;
     font-size: 75px;
@@ -26,12 +27,12 @@ body {
     padding: 0;
     display: inline;
     position: relative;
+    background: greenyellow;
     
 }
 
 nav > a {
-    color: white;
-    font-size: large;
+    
 }
 
 nav > a:hover {
@@ -50,8 +51,10 @@ nav > a:hover {
     position: relative;
     text-align: center;
     font-size: medium;
+    font-style: bolder;
     color: white;
     font-family: "Andika";
+    background-color: green;
   
 
 }
@@ -70,9 +73,9 @@ border-radius: 50%;
 /*opening times postiiong */
 #open-times {
     font-family: 'Barlow condensed' sans-serif;
-    color: black;
+    color: white;
     font-family: "Andika";
-    background-color: beige;
+    background-color: green;
     width: 300px;
     
     
@@ -118,7 +121,7 @@ input {
     box-sizing: border-box;
     padding: 6px 10px;
     margin: 4px;
-    background-color: beige;
+    background-color: white;
     font-family: "Andika";
     font-weight: bold;
     
@@ -140,6 +143,7 @@ input[type=submit] {
     font-weight: bold;
     font-size: large;
     color: white;
+    background-color: green;
     
 
 }
@@ -148,7 +152,7 @@ input[type=submit] {
 form
 {
     width: 400px;
-    background-color: beige;
+    background-color: green;
     
 }
 
@@ -168,6 +172,7 @@ form > label {
     font-size: medium;
     font-family: "Andika";
     color: white;
+    background-color: green;
 
 }
 
