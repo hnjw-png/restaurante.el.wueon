@@ -63,7 +63,6 @@ border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 100px;
   width: 25%;
 }
 
@@ -71,11 +70,10 @@ border-radius: 50%;
 #open-times {
     font-family: 'Barlow condensed' sans-serif;
     color: black;
-    text-align: center;
     background-color: beige;
     width: 300px;
-    float: right;
-    margin: 20px 50px;
+    
+    
 
 }
 
@@ -88,13 +86,9 @@ border-radius: 50%;
 #location {
     font-family: 'Barlow condensed' sans-serif;
     color: black;
-    text-align: center;
     background-color: beige;
     width: 300px;
-    float: right;
-    margin: 20px 50px;
    
-
 }
 
 /*heading classes*/
