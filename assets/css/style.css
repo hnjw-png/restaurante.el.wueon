@@ -31,18 +31,10 @@ body {
     
 }
 
-nav > a {
-    
-}
-
 nav > li:hover {
-    color: silver;
     background-color: aliceblue;
 }
 
-.first-nav {
-    float:inline-start;
-}
 
 /*homepage css*/
 
@@ -77,9 +69,7 @@ border-radius: 50%;
     color: white;
     font-family: "Andika";
     background-color: green;
-    width: 300px;
-    
-    
+    width: 100%;
 
 }
 
@@ -126,7 +116,6 @@ input {
     background-color: white;
     font-family: "Andika";
     font-weight: bold;
-    
 
 }
 
@@ -140,17 +129,17 @@ input[type=submit] {
 }
 
 .para-table {
+    width: 100%;
     display: inline-block;
-    width: 75%;
+    position: relative;
     text-align: center;
     font-size: medium;
-    font-family: "Andika";
+    font-style: bolder;
     color: white;
+    font-family: "Andika";
     background-color: green;
-    
 
 }
-
 
 form
 {
@@ -173,7 +162,7 @@ form > label {
 
  #our-story {
     display: inline-block;
-    width: 75%;
+    width: 100%;
     text-align: center;
     font-size: medium;
     font-family: "Andika";
@@ -185,7 +174,7 @@ form > label {
 
 #man-baking {
     width: 10%;
-    position:  absolute;
+    position:  relative;
     float:inline-start;
     margin: 20px;
     border-radius: 50% 50%;
