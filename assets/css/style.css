@@ -35,8 +35,9 @@ nav > a {
     
 }
 
-nav > a:hover {
+nav > li:hover {
     color: silver;
+    background-color: aliceblue;
 }
 
 .first-nav {
@@ -86,6 +87,7 @@ border-radius: 50%;
 
     text-decoration: underline;
     table-layout: auto;
+    columns: 2px;
 }
 
 #location {
@@ -137,11 +139,12 @@ input[type=submit] {
 
 }
 
-#para-table {
+.para-table {
+    display: inline-block;
+    width: 75%;
+    text-align: center;
+    font-size: medium;
     font-family: "Andika";
-    font-style: italic;
-    font-weight: bold;
-    font-size: large;
     color: white;
     background-color: green;
     
@@ -153,6 +156,8 @@ form
 {
     width: 400px;
     background-color: green;
+    display: inline-block;
+    margin: 10px;
     
 }
 
@@ -161,6 +166,7 @@ form > label {
     font-family: "Andika";
     text-decoration: underline;
     font-weight: bold;
+    color: white;
     
 }
 /* our story */
@@ -176,18 +182,6 @@ form > label {
 
 }
 
-#title-story {
-
-    float: center;
-    text-decoration: underline;
-    width: 200px;
-    font-style: italic;
-    font-family: "Andika";
-    font-size: medium;
-    color: white;
-
-
-}
 
 #man-baking {
     width: 10%;
@@ -195,6 +189,9 @@ form > label {
     float:inline-start;
     margin: 20px;
     border-radius: 50% 50%;
+    border-color: green;
+    border-width: 30px;
+    
 
 }
 
