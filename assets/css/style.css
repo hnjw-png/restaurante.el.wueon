@@ -3,7 +3,8 @@
 body {
     font-family: "Andika" ;
     background-image: url(../images/back.jpeg);
-    width: 100%;
+    background-size: cover;
+
     
     
 }
@@ -20,20 +21,19 @@ body {
     font-size: 75px;
 }
 
-.navigation li {
+nav li {
     list-style-type: none;
     float: right;
     margin: 10px;
     padding: 0;
     display: inline;
     position: relative;
-    background: greenyellow;
-    
+    background-color: white;
     
 }
 
-nav > li:hover {
-    background-color: aliceblue;
+nav > a:hover {
+    background-color: aqua;
 }
 
 
@@ -191,7 +191,7 @@ form > label {
 
 footer 
 {
-    position:absolute;
+    position: relative;
     background-color: green;
     color: white;
     width: 100%;
@@ -209,7 +209,5 @@ footer
     font-family: "Andika";
     color: white;
     background-color: green;
-    margin-left: auto;
-    margin-right: auto;
+    border-radius: 50% 50%;
 }
-
