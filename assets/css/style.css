@@ -3,8 +3,8 @@
 body {
     font-family: "Andika" ;
     background-image: url(../images/back.jpeg);
-    background-repeat: no repeat;
-    background-size: cover;
+    width: 100%;
+    
     
 }
 
@@ -71,7 +71,6 @@ nav > li:hover {
 
 /*opening times postiiong */
 #open-times {
-    font-family: 'Barlow condensed' sans-serif;
     color: white;
     font-family: "Andika";
     background-color: green;
@@ -100,6 +99,7 @@ nav > li:hover {
     font-weight: bold; 
     font-style: italic;
     color: white
+    
 }
 
 .heading2 {
@@ -189,9 +189,27 @@ form > label {
 
 }
 
-#footer 
+footer 
 {
     position:absolute;
-    background-color: beige;
-    color: black;
+    background-color: green;
+    color: white;
+    width: 100%;
+    
 }
+
+/*contact*/
+
+#contact {
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    font-size: medium;
+    font-family: "Andika";
+    color: white;
+    background-color: green;
+    margin-left: auto;
+    margin-right: auto;
+}
+
