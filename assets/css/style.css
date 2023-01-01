@@ -137,7 +137,7 @@ input[type=submit] {
 }
 
 .para-table {
-    width: 100%;
+    width: 75%;
     display: inline-block;
     position: relative;
     text-align: center;
