@@ -7,11 +7,6 @@ body {
 }
 
 /*header css*/
-
-header a:hover {
-    color: darkgreen;
-}
-
 #head {
     font-size: larger;
     font-family: "Andika";
@@ -196,7 +191,7 @@ form > label {
     display: inline-block;
     width: 75%;
     text-align: center;
-    font-size: medium;
+    font-size: large;
     font-family: "Andika";
     color: white;
     background-color: green;
@@ -219,7 +214,7 @@ footer
     background-color: green;
     color: white;
     width: 100%;
-    position: static;
+    
     
     
 }
