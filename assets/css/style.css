@@ -12,7 +12,7 @@ body {
     font-family: "Andika";
     color: white;
     background-color: green;
-    display: inline;
+    text-align: center;
     float: top;
     font-size: 75px;
 
@@ -20,8 +20,16 @@ body {
 
 /*nav*/
 
+nav a {
+    color:whitesmoke;
+    font-family: "Andika";
+    font-weight: bolder;
+    text-decoration: none;
+}
+
 nav a:hover {
-    color: green;
+    background-color: green;
+    border-radius: 50% 50%;
 }
 
 nav li {
@@ -31,7 +39,7 @@ nav li {
     padding: 0;
     display: inline;
     position: relative;
-    background-color: white;
+    
     
 }
 
@@ -191,7 +199,7 @@ form > label {
     display: inline-block;
     width: 75%;
     text-align: center;
-    font-size: large;
+    font-size: medium;
     font-family: "Andika";
     color: white;
     background-color: green;

@@ -48,3 +48,5 @@ https://www.pexels.com/photo/sliced-bread-on-gray-surface-1775043/
 https://www.pexels.com/photo/two-green-potted-plants-791810/
 https://www.pexels.com/photo/fresh-vegetables-on-wooden-table-5677625/
 fresh baked bread image: is a personal image
+
+errors: footer keep floating towards the main content. Tried mulitple atteptms
