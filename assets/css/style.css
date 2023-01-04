@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
 body {
     font-family: "Andika" ;
@@ -8,12 +9,10 @@ body {
 
 /*header css*/
 #head {
-    font-size: larger;
-    font-family: "Andika";
+    font-family: "Courgette";
     color: white;
     background-color: green;
     text-align: center;
-    float: top;
     font-size: 75px;
 
 }
@@ -46,16 +45,19 @@ nav li {
 /*homepage css*/
 
 #section-one {
-    width: 100%;
-    display: inline-block;
-    position: relative;
+    margin-top: 80px;
     text-align: center;
-    font-size: medium;
-    font-style: bolder;
+    position: relative;
     color: white;
     font-family: "Andika";
     background-color: green;
-  
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+
 
 }
 
@@ -143,24 +145,22 @@ input[type=submit] {
 }
 
 .para-table {
-    width: 75%;
-    display: inline-block;
-    position: relative;
+    margin: 80px;
     text-align: center;
-    font-size: medium;
-    font-style: bolder;
     color: white;
     font-family: "Andika";
     background-color: green;
-
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 form
 {
-    width: 400px;
     background-color: green;
-    display: inline-block;
-    margin: 10px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
@@ -175,13 +175,14 @@ form > label {
 /* our story */
 
  #our-story {
-    display: inline-block;
-    width: 75%;
+    margin: 80px;
     text-align: center;
-    font-size: medium;
-    font-family: "Andika";
     color: white;
+    font-family: "Andika";
     background-color: green;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -196,13 +197,14 @@ form > label {
 /*contact*/
 
 #contact {
-    display: inline-block;
-    width: 75%;
+    margin-top: 80px;
     text-align: center;
-    font-size: medium;
-    font-family: "Andika";
     color: white;
+    font-family: "Andika";
     background-color: green;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #bread {
