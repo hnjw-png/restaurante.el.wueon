@@ -198,6 +198,7 @@ form > label {
 
 #contact {
     margin-top: 80px;
+    margin-bottom: 80px;
     text-align: center;
     color: white;
     font-family: "Andika";
@@ -224,8 +225,21 @@ footer
     background-color: green;
     color: white;
     width: 100%;
-    
-    
-    
+
 }
 
+
+@media screen and (max-width 650px) {
+    #head {
+        font-size: 50px;
+    }
+
+    #section-one {
+        width: 100%;
+    }
+
+    #opening-times {
+        width: 100%;
+
+    }
+}
