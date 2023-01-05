@@ -169,9 +169,21 @@ form > label {
     font-family: "Andika";
     text-decoration: underline;
     font-weight: bold;
-    color: white;
-    
+    color: white; 
 }
+
+ /*images on booking page*/
+
+ #latingreens {
+    width: 30%;
+    position:  relative;
+    float:inline-start;
+    margin: 20px;
+    border-radius: 50% 50%;
+}
+
+
+
 /* our story */
 
  #our-story {
@@ -215,6 +227,8 @@ width: 30%;
 
 }
 
+/*..footer css..*/
+
 footer 
 {
 
@@ -236,23 +250,12 @@ footer > nav {
     
     }
 
-    #section-one {
-        font-size: 1rem;
-    }
 
-    #open-times {
-
-        font-size: 1rem;
-
-    }
-
-    #location
+    nav a
     {
-        font-size: 1rem
-
+        font-size: small;
+    
     }
 
-    .table {
-        font-size: 1rem;
-    }
+
 }
