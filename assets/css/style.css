@@ -47,18 +47,27 @@ nav li {
 #section-one {
     margin-top: 80px;
     text-align: center;
-    position: relative;
     color: white;
     font-family: "Andika";
-    background-color: green;
-    width: 50%;
     margin-left: auto;
     margin-right: auto;
+
+}
+
+
+#head-pasty {
+    border-radius: 50% 50%;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
     
     
+}
 
-
-
+#column {
+    columns: 1;
 }
 
 #home-image 
@@ -68,10 +77,10 @@ nav li {
     position:  relative;
     display: inline-block;
     border-radius: 50% 50%;
-    border-color: green;
-    width: 60%;
+    width: 50%;
     margin-top: 50px;
     margin-left: 50px;
+    margin-right: 50px;
 
     
   
@@ -80,9 +89,8 @@ nav li {
 /*opening times postioning */
 #open-times {
     color: white;
+    text-align: center;
     font-family: "Andika";
-    background-color: green;
-    width: 20%;
     margin-left: auto;
     margin-right: auto;
 
@@ -93,6 +101,8 @@ nav li {
     text-decoration: underline;
     table-layout: auto;
     columns: 2px;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 #location {
@@ -106,16 +116,9 @@ nav li {
     font-family: "Andika";
     font-weight: bold; 
     font-style: italic;
+    font-size: large;
     color: white
     
-}
-
-.heading2 {
-    text-decoration: underline;
-    font-family: "Andika";
-    font-weight: bold;
-    font-style: italic;
-    color: white;
 }
 
 
@@ -229,17 +232,31 @@ footer
 }
 
 
-@media screen and (max-width 650px) {
+/*..responsize sizing for screes 650px and lower..*/
+
+@media screen and (max-width: 650px) {
     #head {
-        font-size: 50px;
+        font-size: 1.6rem;
+    
     }
 
     #section-one {
-        width: 100%;
+        font-size: 1rem;
     }
 
-    #opening-times {
-        width: 100%;
+    #open-times {
 
+        font-size: 1rem;
+
+    }
+
+    #location
+    {
+        font-size: 1rem
+
+    }
+
+    .table {
+        font-size: 1rem;
     }
 }
