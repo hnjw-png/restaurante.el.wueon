@@ -182,15 +182,13 @@ form > label {
     text-align: center;
     color: white;
     font-family: "Andika";
-    background-color: green;
-    width: 50%;
     margin-left: auto;
     margin-right: auto;
 }
 
 
 #man-baking {
-    width: 10%;
+    width: 30%;
     position:  relative;
     float:inline-start;
     margin: 20px;
@@ -205,15 +203,13 @@ form > label {
     text-align: center;
     color: white;
     font-family: "Andika";
-    background-color: green;
-    width: 20%;
     margin-left: auto;
     margin-right: auto;
 }
 
 #bread {
 
-width: 10%;
+width: 30%;
     position:  relative;
     float:inline-start;
     margin: 20px;
