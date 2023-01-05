@@ -218,10 +218,13 @@ width: 30%;
 footer 
 {
 
-    background-color: green;
     color: white;
     width: 100%;
 
+}
+
+footer > nav {
+    background-color: green;
 }
 
 
