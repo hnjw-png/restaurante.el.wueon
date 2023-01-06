@@ -3,7 +3,7 @@
 
 body {
     font-family: "Andika" ;
-    background-color: #964B00;
+    background-color: #644117;
 }
 
 /*header css*/
@@ -17,9 +17,13 @@ header a:hover {
 #head {
     font-family: "Courgette";
     color: white;
-    background-color: green;
+    background-color: black;
     text-align: center;
     font-size: 75px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+
 
 }
 
@@ -35,7 +39,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: green;
+    background-color: black;
     border-radius: 50% 50%;
 }
 
@@ -140,7 +144,7 @@ nav li {
 
 /*heading classes*/
 .headings {
-    text-decoration: underline;
+    text-decoration: none;
     font-family: "Courgette";
     text-shadow: 3px 3px 2px black;
     font-weight: bold; 
@@ -188,7 +192,7 @@ input[type=submit] {
 
 form
 {
-    background-color: green;
+    background-color: black;
     width: 20%;
     margin-left: auto;
     margin-right: auto;
@@ -283,12 +287,21 @@ footer > nav {
     
     }
 
-
     nav a
     {
-        font-size: small;
+        font-size: 0.5rem;
     
     }
+
+    .headings
+    {
+        margin-top: 120px;
+    }
+
+    form {
+        width: 200px;
+    }
+
 
 
 }
