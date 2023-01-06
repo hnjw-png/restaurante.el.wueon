@@ -97,10 +97,6 @@ nav li {
     z-index: 1;
 }
 
-#column {
-    columns: 1;
-}
-
 #home-salad 
 {
 
@@ -305,3 +301,4 @@ footer > nav {
 
 
 }
+
