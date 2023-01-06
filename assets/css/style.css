@@ -67,7 +67,7 @@ nav li {
 
 #head-tuna {
     border-radius: 50% 50%;
-    width: 30%;
+    width: 12%;
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
@@ -75,7 +75,29 @@ nav li {
     
     
 }
+#head-bread {
+    border-radius: 50% 50%;
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    z z-index: 1;
 
+    
+    
+}
+
+#head-cod {
+    border-radius: 50% 50%;
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    z z-index: 1;
+
+    
+    
+}
 #column {
     columns: 1;
 }
