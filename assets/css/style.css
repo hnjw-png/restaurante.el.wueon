@@ -3,13 +3,11 @@
 
 body {
     font-family: "Andika" ;
-    background-color: lightgreen;
+    background-color: #964B00;
 }
 
 /*header css*/
-header {
-    text-decoration: wavy;
-}
+
 
 header a:hover {
     color: black;
@@ -24,6 +22,7 @@ header a:hover {
     font-size: 75px;
 
 }
+
 
 /*nav*/
 
@@ -54,6 +53,7 @@ nav li {
 /*homepage css*/
 
 #section-one {
+    font-size: 20px;
     margin-top: 80px;
     text-align: center;
     color: white;
@@ -81,10 +81,7 @@ nav li {
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
-    z z-index: 1;
-
-    
-    
+    z-index: 1;
 }
 
 #head-cod {
@@ -93,11 +90,9 @@ nav li {
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
-    z z-index: 1;
-
-    
-    
+    z-index: 1;
 }
+
 #column {
     columns: 1;
 }
@@ -105,7 +100,7 @@ nav li {
 #home-salad 
 {
 
-    width: 30%;
+    width: 14%;
     position:  relative;
     display: inline-block;
     border-radius: 50% 50%;
@@ -146,11 +141,11 @@ nav li {
 /*heading classes*/
 .headings {
     text-decoration: underline;
-    font-family: "Andika";
+    font-family: "Courgette";
     text-shadow: 3px 3px 2px black;
     font-weight: bold; 
     font-style: italic;
-    font-size: larger;
+    font-size: 30px;
     color: white
     
 }
