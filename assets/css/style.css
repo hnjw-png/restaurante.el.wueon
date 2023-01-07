@@ -132,7 +132,7 @@ nav li {
     margin-right:auto;
 }
 
-#location {
+#open-times p {
     font-family: "Andika";
     text-shadow: 3px 3px 2px black;
     color: white;
@@ -260,6 +260,25 @@ width: 30%;
 
 }
 
+#mushroom {
+    width: 30%;
+    position:  relative;
+    float:inline-start;
+    margin: 20px;
+    border-radius: 50% 50%;
+    z-index: 1;
+}
+
+#cactus {
+    width: 30%;
+    position:  relative;
+    float:inline-start;
+    margin: 20px;
+    border-radius: 50% 50%;
+    z-index: 1;
+}
+
+
 /*..footer css..*/
 
 footer 
@@ -297,6 +316,33 @@ footer > nav {
     form {
         width: 200px;
     }
+
+    .headings {
+        font-size: 1rem;
+    }
+
+    #section-one
+    {
+        font-size: 0.8rem;
+    }
+
+    #open-times 
+    {
+        font-size: 0.8rem;
+    }
+
+    .para-table
+
+    {
+        font-size: 0,8rem;
+    }
+
+    .table
+    {
+        font-size: 0.8rem;
+    }
+
+
 
 
 
