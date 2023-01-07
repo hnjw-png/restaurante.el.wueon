@@ -4,6 +4,7 @@
 body {
     font-family: "Andika" ;
     background-color: #644117;
+    margin: auto;
 }
 
 /*header css*/
@@ -150,6 +151,11 @@ nav li {
     
 }
 
+/*center photos*/
+.center {
+    text-align: center;
+}
+
 
 
 /*book table form styling*/
@@ -206,38 +212,32 @@ form > label {
  /*images on booking page*/
 
  #pastadish {
-    width: 25%;
-    position:  relative;
-    float:inline-start;
-    margin: 30px;
+    width: 20%;
     border-radius: 50% 50%;
     z-index: 1;
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
+    
 }
 
 #nesperros {
-    width: 30%;
-    position:  relative;
-    float:inline-start;
-    margin: 20px;
+    width: 20%;
     border-radius: 50% 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
 
 }
 
 #tomato {
-    width: 25%;
-    position:  relative;
-    float:inline-start;
-    margin: 20px;
+    width: 20%;
     border-radius: 50% 50%;
     z-index: 1;
-    
-}
-
-#center {
-    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 
@@ -266,12 +266,14 @@ form > label {
 
 #growtom
 {
-    width: 20%;
+    width: 15%;
     position:  relative;
     float:inline-start;
-    margin: 30px;
     border-radius: 50% 50%;
     z-index: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+
 }
 
 #salad
@@ -279,9 +281,10 @@ form > label {
     width: 20%;
     position:  relative;
     float:inline-start;
-    margin: 30px;
     border-radius: 50% 50%;
     z-index: 1;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 #lemonrice
@@ -289,12 +292,11 @@ form > label {
     width: 20%;
     position:  relative;
     float:inline-start;
-    margin: 30px;
     border-radius: 50% 50%;
     z-index: 1;
-    margin-top: 50px;
-    margin-left: 170px;
-    margin-right: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
 }
 
 /*contact*/
@@ -312,7 +314,7 @@ form > label {
 
 #bread {
 
-width: 30%;
+width: 20%;
     position:  relative;
     float:inline-start;
     margin: 20px;
@@ -322,7 +324,7 @@ width: 30%;
 }
 
 #mushroom {
-    width: 30%;
+    width: 20%;
     position:  relative;
     float:inline-start;
     margin: 20px;
@@ -331,7 +333,7 @@ width: 30%;
 }
 
 #cactus {
-    width: 30%;
+    width: 20%;
     position:  relative;
     float:inline-start;
     margin: 20px;
