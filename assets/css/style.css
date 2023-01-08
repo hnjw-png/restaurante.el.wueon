@@ -9,9 +9,13 @@ body {
 
 /*header css*/
 
+header a {
+    color: black;
+}
+
 
 header a:hover {
-    color: black;
+    color: brown;
 
 }
 
@@ -351,7 +355,7 @@ width: 20%;
  #funfact
  {
     background-color: black;
-    border-radius: 50% 50%;
+    border-radius: 50%;
  }
 
 /*..footer css..*/
