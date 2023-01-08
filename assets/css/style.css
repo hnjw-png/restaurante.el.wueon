@@ -340,7 +340,19 @@ width: 20%;
     border-radius: 50% 50%;
     z-index: 1;
 }
+ /*fun facts*/
 
+ #funlist
+ {
+    list-style: none;
+
+ }
+
+ #funfact
+ {
+    background-color: black;
+    border-radius: 50% 50%;
+ }
 
 /*..footer css..*/
 
@@ -349,6 +361,8 @@ footer
 
     color: white;
     width: 100%;
+    border-top: white 2px solid;
+    margin-top: 100px;
 
 }
 
@@ -361,20 +375,16 @@ footer > nav {
 
 @media screen and (max-width: 650px) {
     #head {
-        font-size: 1.6rem;
+        font-size: 1.8rem;
     
     }
 
     nav a
     {
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     
     }
 
-    .headings
-    {
-        margin-top: 120px;
-    }
 
     form {
         width: 200px;
@@ -404,6 +414,14 @@ footer > nav {
     {
         font-size: 0.8rem;
     }
+
+    #floating-footer
+    {
+        margin-top: auto;
+    }
+
+
+
 
 
 
