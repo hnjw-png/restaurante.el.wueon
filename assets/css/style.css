@@ -24,7 +24,7 @@ header a:hover {
     font-family: "Courgette";
     color: black;
     text-shadow: 1px 1px 0px white;
-    background-image: url(../images/moutains.jpeg);
+    background-image: url(../images/moutains.jpeg) no-repeat;
     text-align: center;
     font-size: 75px;
     width: 75%;
@@ -61,6 +61,24 @@ nav li {
     
 }
 
+/*heading classes*/
+.headings {
+    text-decoration: none;
+    font-family: "Courgette";
+    text-shadow: 3px 3px 2px black;
+    font-weight: bold; 
+    font-style: italic;
+    font-size: 30px;
+    color: white
+    
+}
+
+/*center photos*/
+.center {
+    text-align: center;
+}
+
+
 /*homepage css*/
 
 #section-one {
@@ -75,7 +93,7 @@ nav li {
 
 }
 
-
+/*homepage images*/
 #head-tuna {
     border-radius: 50% 50%;
     width: 15%;
@@ -119,7 +137,7 @@ nav li {
   
 }
 
-/*opening times postioning */
+/*opening times postioning on homepage*/
 #open-times {
     color: white;
     text-align: center;
@@ -145,24 +163,16 @@ nav li {
     color: white;
 }
 
-/*heading classes*/
-.headings {
-    text-decoration: none;
-    font-family: "Courgette";
-    text-shadow: 3px 3px 2px black;
-    font-weight: bold; 
-    font-style: italic;
-    font-size: 30px;
-    color: white
-    
-}
-
-/*center photos*/
-.center {
+/*introduction on booking page */
+.para-table {
+    margin: 80px;
     text-align: center;
+    text-shadow: 3px 3px 2px black;
+    color: white;
+    font-family: "Andika";
+    margin-left: auto;
+    margin-right: auto;
 }
-
-
 
 /*book table form styling*/
 
@@ -188,16 +198,6 @@ input[type=submit] {
 
 }
 
-.para-table {
-    margin: 80px;
-    text-align: center;
-    text-shadow: 3px 3px 2px black;
-    color: white;
-    font-family: "Andika";
-    margin-left: auto;
-    margin-right: auto;
-}
-
 form
 {
     background-color: black;
@@ -215,7 +215,7 @@ form > label {
     color: white; 
 }
 
- /*images on booking page*/
+ /*images for booking page*/
 
  #pastadish {
     width: 20%;
@@ -305,7 +305,7 @@ form > label {
     
 }
 
-/*contact*/
+/*contact page styling*/
 
 #contact {
     margin-top: 80px;
@@ -317,6 +317,8 @@ form > label {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* images for contact page */
 
 #bread {
 
