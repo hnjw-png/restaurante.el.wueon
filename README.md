@@ -9,7 +9,7 @@ This website is intended to give information about the services the restaurant p
 
 The page will be color coordinated with a brown background (representing the color of food)  
 
-The website is responsive and changes accordning to screen sizes.
+The website is responsive and changes according to screen sizes.
 
 The target audience is new customers, and returning ones of all ages. This is a family friendly restaurant, and will attract people interested in homemade chilean cuisine.
 
