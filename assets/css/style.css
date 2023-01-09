@@ -19,10 +19,12 @@ header a:hover {
 
 }
 
+
 #head {
     font-family: "Courgette";
-    color: white;
-    background-color: black;
+    color: black;
+    text-shadow: 1px 1px 0px white;
+    background-image: url(../images/moutains.jpeg);
     text-align: center;
     font-size: 75px;
     width: 75%;
@@ -344,7 +346,7 @@ width: 20%;
     border-radius: 50% 50%;
     z-index: 1;
 }
- /*fun facts*/
+ /*under contact info, the fun facts*/
 
  #funlist
  {
@@ -355,7 +357,7 @@ width: 20%;
  #funfact
  {
     background-color: black;
-    border-radius: 50%;
+
  }
 
 /*..footer css..*/
@@ -411,7 +413,7 @@ footer > nav {
     .para-table
 
     {
-        font-size: 0,8rem;
+        font-size: 0.8rem;
     }
 
     .table
