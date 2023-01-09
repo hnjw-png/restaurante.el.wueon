@@ -56,12 +56,28 @@ Underneath the booking form, there is three circular images of food.
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
+Features left to implement:
 
-references of photos used:
-header image is a image from: https://www.pexels.com/photo/landscape-of-andes-13203423/
-the rest of the photos are my own privately photographed images.
+Add another page, to showcase the menu. This will consist of images of each dish and information on what it contains as well the price.
 
-errors: 
+Validation:
+
+Testing:
+I have tested all navigation buttons and they all function on each page. When you over over a selected nav button a black colored circle appears behind it to show which page your about to click on.
+
+I have tested that the header navigation bar always directs you back to the homepage. When you hover over the header the underline changes color to brown, to indicate its a functional navigation button.
+
+I have tested that the website functions on all screen sizes, I did this by using media queiries to adjust sizes of the text and header, as well as the nav keys.
+On smaller screens the images with appear in a triangular formation. On larger, in a straight line format.
+The rest of the website function well without adding any more media queiries.
+
+Images through-out the webpage follow the same structure by all being circular, as well as there style and placement. Each pages contains three images, in a fashioned eye-catching order. All the images have a alt attribrute, that tells you specifically what the photo is of. 
+
+The form is functional, you cannot submit without filling out all of the the questions. You can only right the correct input into the input boxes, e.g, the email address box, can only contain a email address, the requested date is only a date and so on.
+
+All headings, paragraphs, forms, tables follow the same styling throughout.
+
+Unfixed testing interesting bugs:
 
 1.Footer keep floating towards the main content on the contact us page. Tried mulitple attempts.
 I fixed this with adding a bit more content on the contact us page, this worked nicely and helped the website correlate with the rest of the website. 
@@ -78,3 +94,21 @@ I decided to remove this function, as this outcome is un-needed for the user.
 
 I will continue to look further into the issue.
 
+
+Validator Testing
+
+No errors found in HTML W3C validator.
+No errors found in CSS JIGSAW validator
+
+Content
+
+Media :
+
+All written html is my own. All images except for the headers image, are images I have photogrpahed myself.
+Header image credit : 
+
+Help:
+
+I use the website https://www.w3schools.com/ to research and discover.
+
+I have not anybody elses code.
