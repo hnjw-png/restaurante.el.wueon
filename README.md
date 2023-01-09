@@ -102,7 +102,7 @@ No errors found in CSS JIGSAW validator
 
 Content
 
-Media :
+Media:
 
 All written html is my own. All images except for the headers image, are images I have photogrpahed myself.
 Header image credit : 

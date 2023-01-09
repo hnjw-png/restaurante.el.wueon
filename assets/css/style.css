@@ -353,12 +353,17 @@ width: 20%;
  #funlist
  {
     list-style: none;
+    font-size: 16px;
+    font-family: 'Andika';
+    color: white;
 
  }
 
  #funfact
  {
     background-color: black;
+    color:white;
+    font-family: 'Andika';
 
  }
 
