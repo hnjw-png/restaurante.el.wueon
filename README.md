@@ -35,7 +35,7 @@ Contact us page:
 This page will include a table with information for the restaurant including email and phone number.
 It will have a range of food images in circular shape, this will be located below the contact details.
 
-In the section section this is a fun facts paragraphy explaining the meaning of the word wueon.
+In the section there is a fun facts section, explaining the meaning of the word wueon.
 Underneath there is a list of words that are only used in Chile and the translation in english.
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
