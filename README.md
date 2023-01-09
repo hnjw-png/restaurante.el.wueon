@@ -61,6 +61,20 @@ references of photos used:
 header image is a image from: https://www.pexels.com/photo/landscape-of-andes-13203423/
 the rest of the photos are my own privately photographed images.
 
-errors: footer keep floating towards the main content on the contact us page. Tried mulitple attempts (now fixed) 
-I fixed this with adding a bit more content on the contact us page, this worked nicely and helped the website correlate with the rest of the website.
+errors: 
+
+1.Footer keep floating towards the main content on the contact us page. Tried mulitple attempts.
+I fixed this with adding a bit more content on the contact us page, this worked nicely and helped the website correlate with the rest of the website. 
+
+I am continuing to research into, how to place the footer at the bottom of the page, when there is less content. 
+
+I tried adjusting the margin top, but this was diffcult to maintain across different page sizes. As well as the positioning tools.
+
+2.when submiting form there it reports a error 501, unsupported method(POST), this is due to there being nowhere to send the information. 
+
+I researched into where I can send such information and discovered 'php'. I then added a php file to my workspace, but this made the form save as a file directly to my computer. 
+
+I decided to remove this function, as this outcome is un-needed for the user. 
+
+I will continue to look further into the issue.
 
