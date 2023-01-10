@@ -132,6 +132,7 @@ nav li {
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
+    z-index: 1;
 
     
   
@@ -229,6 +230,7 @@ form > label {
 
 #nesperros {
     width: 20%;
+    z-index: 1;
     border-radius: 50% 50%;
     margin-top: 50px;
     margin-left: 50px;
@@ -318,6 +320,10 @@ form > label {
     margin-right: auto;
 }
 
+#contact a:link {
+    color: white;
+}
+
 /* images for contact page */
 
 #bread {
@@ -384,7 +390,7 @@ footer > nav {
 }
 
 
-/*..responsize sizing for screes 650px and lower..*/
+/*..responsize sizing for screens 650px and lower..*/
 
 @media screen and (max-width: 650px) {
     #head {
@@ -394,7 +400,7 @@ footer > nav {
 
     nav a
     {
-        font-size: 0.8rem;
+        font-size: 0.5rem;
     
     }
 
@@ -434,11 +440,4 @@ footer > nav {
     }
 
 
-
-
-
-
-
-
 }
-
