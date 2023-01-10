@@ -55,6 +55,8 @@ Our Story Page:
 
 This page will include a section about the story of the restaurant. This is a personal statement from the owners that will explain a little more to customers about the food style and motto of the restuarant. In between the text there will be a circular image of food. 
 
+<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screenshot our story.jpg">
+
 <img scr = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screenshot our story.jpg">
 
 Below the our story section there is three circular images of food.
@@ -67,7 +69,7 @@ Book table page:
 This page will include a form that customers can use to request to book a table. 
 Here they can enter first name, last name, date and how many; each input is set to the correct input. For example you can only type a email address for the email input. 
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screen shot book table.jpg">
+![]<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screen shot book table.jpg">
 
 Underneath the booking form, there is three circular images of food.
 
@@ -124,7 +126,7 @@ lighthouse testing
 
 Homepage:
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/homepage lighthouse.jpg">
+<img src = "/workspace/restaurante.el.wueon/assets/images/screenshots-readme/screenshots-readme/homepage lighthouse.jpg">
 
 Contact us:
 
@@ -150,3 +152,14 @@ Help:
 I use the website https://www.w3schools.com/ to research and discover.
 
 I have not anybody elses code.
+
+Deployment:
+
+I deployed the site using github. 
+
+First I went to settings, then to pages, thereafter scroll to branch, and save to the main branch.
+And then its deployed.
+
+Below is the live link to my website:
+
+https://hnjw-png.github.io/restaurante.el.wueon/
