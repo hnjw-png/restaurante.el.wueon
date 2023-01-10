@@ -28,8 +28,7 @@ When you hover over each nav button it be highlighted with a black circle, with 
 Header Logo:
 
 You can click the header logo name and be directed back to the homepage, and this works on all pages. When you hover over the homepage name the underlines and changes color, so you know its navigation button.
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header screenshot.jpg">
-
+<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header.jpg">
 Homepage:
 
 The first section of the homepage will include a introduction about restaurant El Wueon and the experience the restaurant wants to provide.
