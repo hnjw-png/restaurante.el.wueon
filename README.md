@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
-Project Readme:
+#Project Readme:
 
 The website 'Restaurant El Wueon' is a four-page website with the purpose to encourage new customers to a new restaurant. It consists of four pages; 'homepage', 'contact us','our story' and 'book table'.
 
@@ -15,9 +15,9 @@ The target audience is new customers, and returning ones of all ages. This is a 
 
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header screenshot.jpg">
 
-Features:
+##Features:
 
-Nav bar:
+###Nav bar:
 
 There is four links to the top right of the screen on every screen. These will direct you to the page of the website you see. (e.g.Home to Home. Our story to the page our story.) You do not need to use the back or forward button on the browser, the links will take you where you need to go.
 
@@ -25,7 +25,7 @@ When you hover over each nav button it be highlighted with a black circle, with 
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/top nav bar.jpg">
 
 
-Header Logo:
+###Header Logo:
 
 You can click the header logo name and be directed back to the homepage, and this works on all pages. When you hover over the homepage name the underlines and changes color, so you know its navigation button.
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header.jpg">
@@ -38,7 +38,7 @@ In the second section there will be three circluar images of food, thereafter op
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screenshot open.jpg">
 
 
-Contact us page:
+###Contact us page:
 
 This page will include a table with information for the restaurant including email and phone number.
 It will have a range of food images in circular shape, this will be located below the contact details.
@@ -50,7 +50,7 @@ Underneath there is a list of words that are only used in Chile and the translat
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
-Our Story Page:
+###Our Story Page:
 
 This page will include a section about the story of the restaurant. This is a personal statement from the owners that will explain a little more to customers about the food style and motto of the restuarant. In between the text there will be a circular image of food. 
 
@@ -63,7 +63,7 @@ Below the our story section there is three circular images of food.
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
-Book table page:
+###Book table page:
 
 This page will include a form that customers can use to request to book a table. 
 Here they can enter first name, last name, date and how many; each input is set to the correct input. For example you can only type a email address for the email input. 
@@ -76,13 +76,13 @@ Underneath the booking form, there is three circular images of food.
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
-Features left to implement:
+##Features left to implement:
 
 Add another page, to showcase the menu. This will consist of images of each dish and information on what it contains as well as the price.
 
-Validation:
+##Validation:
 
-Testing:
+#Testing:
 1. I have tested all navigation buttons and they all function on each page. When you over over a selected nav button a black colored circle appears behind it to show which page your about to click on.
 
 2. I have tested that the header navigation bar always directs you back to the homepage. When you hover over the header the underline changes color to brown, to indicate its a functional navigation button.
@@ -98,7 +98,7 @@ The rest of the website function well without adding any more media queiries.
 7. All headings, paragraphs, forms, tables follow the same styling throughout.
 
 
-Unfixed testing  bugs:
+###Unfixed testing  bugs:
 
 1.Footer keep floating towards the main content on the contact us page. Tried mulitple attempts.
 I fixed this with adding a bit more content on the contact us page, this worked nicely and helped the website correlate with the rest of the website. 
@@ -116,26 +116,26 @@ I decided to remove this function, as this outcome is un-needed for the user.
 I will continue to look further into the issue.
 
 
-Validator Testing
+##Validator Testing
 
 No errors found in HTML W3C validator.
 No errors found in CSS JIGSAW validator
 
 lighthouse testing
 
-Homepage:
+Homepage: Accessibility, 100.
 
-<img src = "/workspace/restaurante.el.wueon/assets/images/screenshots-readme/screenshots-readme/homepage lighthouse.jpg">
+<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header screenshot.jpg">
 
-Contact us:
+Contact us: Accessibility, 100.
 
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/contactus lighthouse.jpg">
 
-Our Story:
+Our Story: Accessibilty, 100.
 
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/ourstory lighthouse.jpg">
 
-Book Table:
+Book Table: Accessbility, 100.
 
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/lighthouse book table.jpg">
 
