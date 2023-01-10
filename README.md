@@ -13,7 +13,7 @@ The website is responsive and changes according to screen sizes.
 
 The target audience is new customers, and returning ones of all ages. This is a family friendly restaurant, and will attract people interested in homemade chilean cuisine.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/ami screenshot.jpg">
+<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header screenshot.jpg">
 
 Features:
 
