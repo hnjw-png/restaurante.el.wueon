@@ -13,7 +13,8 @@ The website is responsive and changes according to screen sizes.
 
 The target audience is new customers, and returning ones of all ages. This is a family friendly restaurant, and will attract people interested in homemade chilean cuisine.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header screenshot.jpg">
+![ami screenshot](https://user-images.githubusercontent.com/120515252/211731563-c37e7a0a-548e-4401-a5ae-b0fbf31ef5e6.jpg)
+
 
 ##Features:
 
@@ -23,6 +24,7 @@ There is four links to the top right of the screen on every screen. These will d
 
 When you hover over each nav button it be highlighted with a black circle, with the page name in white still visable.
 <img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/top nav bar.jpg">
+
 
 
 ###Header Logo:
