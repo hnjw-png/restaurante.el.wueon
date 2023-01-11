@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
-#Project Readme:
+Project Readme:
 
 The website 'Restaurant El Wueon' is a four-page website with the purpose to encourage new customers to a new restaurant. It consists of four pages; 'homepage', 'contact us','our story' and 'book table'.
 
@@ -16,29 +16,31 @@ The target audience is new customers, and returning ones of all ages. This is a 
 ![ami screenshot](https://user-images.githubusercontent.com/120515252/211731563-c37e7a0a-548e-4401-a5ae-b0fbf31ef5e6.jpg)
 
 
-##Features:
+Features:
 
-###Nav bar:
+Nav bar:
 
 There is four links to the top right of the screen on every screen. These will direct you to the page of the website you see. (e.g.Home to Home. Our story to the page our story.) You do not need to use the back or forward button on the browser, the links will take you where you need to go.
 
+![top nav bar](https://user-images.githubusercontent.com/120515252/211733071-28c7fcc1-27fb-4595-b46b-2ef5c3680a41.jpg)
 
 When you hover over each nav button it be highlighted with a black circle, with the page name in white still visable.
+
+
+Header Logo:
+
+You can click the header logo name and be directed back to the homepage, and this works on all pages. When you hover over the homepage name the underlines and changes color, so you know its navigation button.
 
 
 ![header screenshot](https://user-images.githubusercontent.com/120515252/211731823-9e9fd360-f74a-498e-bb2a-0756e8d2b9fa.jpg)
 
 
 
-###Header Logo:
-
-You can click the header logo name and be directed back to the homepage, and this works on all pages. When you hover over the homepage name the underlines and changes color, so you know its navigation button.
-
-
 Homepage:
 
 The first section of the homepage will include a introduction about restaurant El Wueon and the experience the restaurant wants to provide.
 ![homepage start](https://user-images.githubusercontent.com/120515252/211731969-3a6c25b0-0df7-4ab6-b9c7-6aa5f85b3ae5.jpg)
+
 
 In the second section there will be three circluar images of food, thereafter opening times in a table, then a another circular image of food and then the location of the restaurant.
 
@@ -62,7 +64,8 @@ This page correlates with the rest of the website. (font, color, background, nav
 
 This page will include a section about the story of the restaurant. This is a personal statement from the owners that will explain a little more to customers about the food style and motto of the restuarant. In between the text there will be a circular image of food. 
 
-![screen shot botom our story](https://user-images.githubusercontent.com/120515252/211732135-2ce4225e-9510-45ba-b119-ead643be5a15.jpg)
+![screenshot our story](https://user-images.githubusercontent.com/120515252/211733317-7d34a1e9-5da0-4c88-b418-46bfa6ff8c19.jpg)
+
 
 
 Below the our story section there is three circular images of food.
@@ -72,7 +75,7 @@ Below the our story section there is three circular images of food.
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
-###Book table page:
+Book table page:
 
 This page will include a form that customers can use to request to book a table. 
 Here they can enter first name, last name, date and how many; each input is set to the correct input. For example you can only type a email address for the email input. 
@@ -83,6 +86,13 @@ Here they can enter first name, last name, date and how many; each input is set 
 Underneath the booking form, there is three circular images of food.
 
 ![bottom book tbale screen](https://user-images.githubusercontent.com/120515252/211732266-1dc9184d-ab32-4ea2-9678-9c8a21ded852.jpg)
+
+Footer:
+
+Footer has external links to facebook and instagram.
+
+
+![footer](https://user-images.githubusercontent.com/120515252/211733628-cc8645f6-0af0-4cf1-a0f7-15270b045df1.jpg)
 
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
