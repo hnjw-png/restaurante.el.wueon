@@ -22,33 +22,39 @@ The target audience is new customers, and returning ones of all ages. This is a 
 
 There is four links to the top right of the screen on every screen. These will direct you to the page of the website you see. (e.g.Home to Home. Our story to the page our story.) You do not need to use the back or forward button on the browser, the links will take you where you need to go.
 
+
 When you hover over each nav button it be highlighted with a black circle, with the page name in white still visable.
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/top nav bar.jpg">
+
+
+![header screenshot](https://user-images.githubusercontent.com/120515252/211731823-9e9fd360-f74a-498e-bb2a-0756e8d2b9fa.jpg)
 
 
 
 ###Header Logo:
 
 You can click the header logo name and be directed back to the homepage, and this works on all pages. When you hover over the homepage name the underlines and changes color, so you know its navigation button.
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header.jpg">
+
+
 Homepage:
 
 The first section of the homepage will include a introduction about restaurant El Wueon and the experience the restaurant wants to provide.
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/homepage start.jpg">
+![homepage start](https://user-images.githubusercontent.com/120515252/211731969-3a6c25b0-0df7-4ab6-b9c7-6aa5f85b3ae5.jpg)
+
 In the second section there will be three circluar images of food, thereafter opening times in a table, then a another circular image of food and then the location of the restaurant.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screenshot open.jpg">
+![screenshot open](https://user-images.githubusercontent.com/120515252/211732014-02ae6aa0-52a4-44dc-a6ce-86b30da78394.jpg)
 
-
-###Contact us page:
+Contact us page:
 
 This page will include a table with information for the restaurant including email and phone number.
 It will have a range of food images in circular shape, this will be located below the contact details.
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screen contact.jpg">
+
+![screen contact](https://user-images.githubusercontent.com/120515252/211732051-5494d9fb-bc1f-468a-a701-2aa7aff4f5d6.jpg)
+
 In the section there is a fun facts section, explaining the meaning of the word wueon.
 Underneath there is a list of words that are only used in Chile and the translation in english.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screenshot fun facts.jpg">
+![screenshot fun facts](https://user-images.githubusercontent.com/120515252/211732076-09ffc1d3-c7fb-419b-9c52-a9c3bfdb42b8.jpg)
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
@@ -56,12 +62,13 @@ This page correlates with the rest of the website. (font, color, background, nav
 
 This page will include a section about the story of the restaurant. This is a personal statement from the owners that will explain a little more to customers about the food style and motto of the restuarant. In between the text there will be a circular image of food. 
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screenshot our story.jpg">
+![screen shot botom our story](https://user-images.githubusercontent.com/120515252/211732135-2ce4225e-9510-45ba-b119-ead643be5a15.jpg)
 
-<img scr = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screenshot our story.jpg">
 
 Below the our story section there is three circular images of food.
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screen shot botom our story.jpg">
+
+![screen shot botom our story](https://user-images.githubusercontent.com/120515252/211732198-54ffae47-b784-4fa7-a00a-40c08f485ea5.jpg)
+
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
@@ -70,21 +77,23 @@ This page correlates with the rest of the website. (font, color, background, nav
 This page will include a form that customers can use to request to book a table. 
 Here they can enter first name, last name, date and how many; each input is set to the correct input. For example you can only type a email address for the email input. 
 
-![]<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/screen shot book table.jpg">
+![screen shot book table](https://user-images.githubusercontent.com/120515252/211732235-6fcaeed9-f5c5-460e-9a5a-2bd5e63c275b.jpg)
+
 
 Underneath the booking form, there is three circular images of food.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/bottom book tbale screen.jpg">
+![bottom book tbale screen](https://user-images.githubusercontent.com/120515252/211732266-1dc9184d-ab32-4ea2-9678-9c8a21ded852.jpg)
+
 
 This page correlates with the rest of the website. (font, color, background, navigation, header and footer)
 
-##Features left to implement:
+Features left to implement:
 
 Add another page, to showcase the menu. This will consist of images of each dish and information on what it contains as well as the price.
 
-##Validation:
+Validation:
 
-#Testing:
+Testing:
 1. I have tested all navigation buttons and they all function on each page. When you over over a selected nav button a black colored circle appears behind it to show which page your about to click on.
 
 2. I have tested that the header navigation bar always directs you back to the homepage. When you hover over the header the underline changes color to brown, to indicate its a functional navigation button.
@@ -100,7 +109,7 @@ The rest of the website function well without adding any more media queiries.
 7. All headings, paragraphs, forms, tables follow the same styling throughout.
 
 
-###Unfixed testing  bugs:
+nfixed testing  bugs:
 
 1.Footer keep floating towards the main content on the contact us page. Tried mulitple attempts.
 I fixed this with adding a bit more content on the contact us page, this worked nicely and helped the website correlate with the rest of the website. 
@@ -118,7 +127,7 @@ I decided to remove this function, as this outcome is un-needed for the user.
 I will continue to look further into the issue.
 
 
-##Validator Testing
+Validator Testing
 
 No errors found in HTML W3C validator.
 No errors found in CSS JIGSAW validator
@@ -127,19 +136,23 @@ lighthouse testing
 
 Homepage: Accessibility, 100.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/header screenshot.jpg">
+![homepage lighthouse](https://user-images.githubusercontent.com/120515252/211732501-7dcdd4a9-7616-4c0f-bb0f-782bff05b02a.jpg)
+
 
 Contact us: Accessibility, 100.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/contactus lighthouse.jpg">
+![contactus lighthouse](https://user-images.githubusercontent.com/120515252/211732530-12957e03-db47-479b-89f7-813bd7404bda.jpg)
+
 
 Our Story: Accessibilty, 100.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/ourstory lighthouse.jpg">
+![ourstory lighthouse](https://user-images.githubusercontent.com/120515252/211732560-31d6ec1b-afbf-46b7-90ab-63333fb21e12.jpg)
+
 
 Book Table: Accessbility, 100.
 
-<img src = "/workspace/restaurante.el.wueon/assets/screenshots-readme/lighthouse book table.jpg">
+![lighthouse book table](https://user-images.githubusercontent.com/120515252/211732574-b0946f8f-70ac-4335-9409-e0335612f423.jpg)
+
 
 Content
 
