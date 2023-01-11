@@ -119,7 +119,7 @@ The rest of the website function well without adding any more media queiries.
 7. All headings, paragraphs, forms, tables follow the same styling throughout.
 
 
-nfixed testing  bugs:
+Unfixed testing  bugs:
 
 1.Footer keep floating towards the main content on the contact us page. Tried mulitple attempts.
 I fixed this with adding a bit more content on the contact us page, this worked nicely and helped the website correlate with the rest of the website. 
@@ -142,7 +142,7 @@ Validator Testing
 No errors found in HTML W3C validator.
 No errors found in CSS JIGSAW validator
 
-lighthouse testing
+Lighthouse testing
 
 Homepage: Accessibility, 100.
 
